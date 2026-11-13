@@ -76,7 +76,7 @@ I enjoy working at the intersection of Machine Learning, Generative AI, automati
 
 ## 🚀 Featured Projects
 
-<div align="center">
+
 
 ### 🧪 [Model Hub](https://github.com/yamsh16/Model-Hub)
 
@@ -150,7 +150,6 @@ A Hermes-powered multi-agent system designed to analyze BTC and ETH five-minute 
 
 [![View Repository](https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamsh16/cwt-crypto-agent)
 
-</div>
 
 ---
 
